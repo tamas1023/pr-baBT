@@ -5,3 +5,4 @@ Első módosítás
 Második
 HArmadik, kommentel
 Megnyitottuk (klónoztuk visual studio ba)
+teszt
